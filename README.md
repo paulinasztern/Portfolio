@@ -15,16 +15,16 @@ Font, GoFullPage
 - Python - basic knowledge
 - OWASP ZAP
 # Courses
-Python for beginners www.udemy.com - 
-lists/tuples/dictionaries, conditional statements if/else/elif, for and while loops 
+Python for beginners www.udemy.com 
+- lists/tuples/dictionaries, conditional statements if/else/elif, for and while loops 
 
 Postman from scratch - REST API testing www.udemy.com 
-API testing automation, Newman & Jenkins, GET/POST/PUT/DELETE request
+- API testing automation, Newman & Jenkins, GET/POST/PUT/DELETE request
 
 Jira From Scratch - Project Management www.udemy.com 
-Agile concept (Scrum, Kanban, Sprint, Backlog), workflow automation, creating new
+- Agile concept (Scrum, Kanban, Sprint, Backlog), workflow automation, creating new
 ticket type, creating reports
 
 Practical software testing course www.udemy.com 
-writing test plans and test cases, using TestLink and GIT, using browser plugins,
+- writing test plans and test cases, using TestLink and GIT, using browser plugins,
 creating bug reports, SQL basics
