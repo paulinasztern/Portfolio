@@ -17,8 +17,8 @@ Font, GoFullPage
 # Experience
 Manual Tester
 uTest - crowdtesting - Since April 2022
-Functional browser and mobile app testing
-Writing bug reports (with screenshots, screen recording, browser and mobile devices
+- Functional browser and mobile app testing
+- Writing bug reports (with screenshots, screen recording, browser and mobile devices
 controle log) and test cases
 # My bug reports
 
