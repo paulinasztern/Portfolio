@@ -21,7 +21,7 @@ uTest - crowdtesting - Since April 2022
 - Writing bug reports (with screenshots, screen recording, browser and mobile devices
 controle log) and test cases
 # My bug reports
-(https://drive.google.com/file/d/1R2WAEwnIrOySw3fqBXnmdPhR79WZpV-c/view?usp=sharing)
+* [Bug on Kayak website](https://drive.google.com/file/d/1R2WAEwnIrOySw3fqBXnmdPhR79WZpV-c/view?usp=sharing)
 # Courses
 Python for beginners www.udemy.com 
 - lists/tuples/dictionaries, conditional statements if/else/elif, for and while loops 
