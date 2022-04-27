@@ -14,6 +14,8 @@ Font, GoFullPage
 - SQL - basic knowledge
 - Python - basic knowledge
 - OWASP ZAP
+# My bug reports
+
 # Courses
 Python for beginners www.udemy.com 
 - lists/tuples/dictionaries, conditional statements if/else/elif, for and while loops 
@@ -32,9 +34,9 @@ creating bug reports, SQL basics
 The Basic of GIT and Github
 IFS&WHILES Sp. z o. o. 
 # Groups on Facebook
-Tester Oprogramowania - wsparcie na start
-Czy IT jest dla mnie
-Testowanie Oprogramowania - PRACA, Ogłoszenia
-Testowanie Oprogramowania
-QA Testers - job offers, oferty pracy, jobangebote, вакансії
-Akademia Testera - Grupa wsparcia w IT
+- Tester Oprogramowania - wsparcie na start
+- Czy IT jest dla mnie
+- Testowanie Oprogramowania - PRACA, Ogłoszenia
+- Testowanie Oprogramowania
+- QA Testers - job offers, oferty pracy, jobangebote, вакансії
+- Akademia Testera - Grupa wsparcia w IT
