@@ -19,12 +19,13 @@ Manual Tester
 uTest - crowdtesting - Since April 2022
 - Functional browser and mobile app testing
 - Writing bug reports (with screenshots, screen recording, browser and mobile devices
-controle log) and test cases
+controle log, charles proxy) and test cases
 # My bug reports
 * [Bug report - Kayak website](https://drive.google.com/file/d/1R2WAEwnIrOySw3fqBXnmdPhR79WZpV-c/view?usp=sharing)
 * [Bug report - Lacoste website](https://drive.google.com/file/d/1jfrs7YND2V5eNrS_-rnepCadKoPgkHdK/view?usp=sharing)
 * [Bug report - Selfridges mobile app](https://drive.google.com/file/d/1HDKOhw99Egfat3EcSjbpoYZ3rVxLp3kh/view?usp=sharing)
 * [Bug report - Swarovski website](https://drive.google.com/file/d/1QYLBQhhMLtLOZfO0nwTGr3tFQT1GzmMd/view?usp=sharing)
+* [Bug report with Charles Proxy - Oldnavy.gap website](https://drive.google.com/file/d/1zV2f7MLYpiRVQUM_Vs3qeUabOek8p2LC/view?usp=sharing)
 # Courses
 Python for beginners www.udemy.com 
 - lists/tuples/dictionaries, conditional statements if/else/elif, for and while loops 
