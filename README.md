@@ -48,7 +48,7 @@ creating bug reports, SQL basics
 The Basic of GIT and Github
 IFS&WHILES Sp. z o. o. 
 
-Sql Basics
+SQL Basics
 IFS&WHILES Sp. z o. o.
 # Groups on Facebook
 - Tester Oprogramowania - wsparcie na start
