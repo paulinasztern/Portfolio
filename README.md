@@ -2,7 +2,7 @@
 # About me
 I'm currently aspiring to work as a beginner but highly motivated
 manual tester. I'm a hardworking and conscientious person, focused on continuous
-learning and development.
+learning and development. I'm gaining experience on uTest.
 # Tools
 - Jira
 - TestLink
@@ -26,6 +26,8 @@ controle log, charles proxy) and test cases
 * [Bug report - Selfridges mobile app](https://drive.google.com/file/d/1HDKOhw99Egfat3EcSjbpoYZ3rVxLp3kh/view?usp=sharing)
 * [Bug report - Swarovski website](https://drive.google.com/file/d/1QYLBQhhMLtLOZfO0nwTGr3tFQT1GzmMd/view?usp=sharing)
 * [Bug report with Charles Proxy - Oldnavy.gap website](https://drive.google.com/file/d/1zV2f7MLYpiRVQUM_Vs3qeUabOek8p2LC/view?usp=sharing)
+# SQL
+https://drive.google.com/file/d/1wtYow3HhwHgFY5Cqp9i6eugwQsjQQz0b/view?usp=sharing
 # Postman - Tests
 https://www.postman.com/collections/8ae1e9a96321d2111932
 # Courses
@@ -45,6 +47,8 @@ creating bug reports, SQL basics
 # Webinars
 The Basic of GIT and Github
 IFS&WHILES Sp. z o. o. 
+Sql Basics
+IFS&WHILES Sp. z o. o.
 # Groups on Facebook
 - Tester Oprogramowania - wsparcie na start
 - Czy IT jest dla mnie
