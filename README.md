@@ -47,6 +47,7 @@ creating bug reports, SQL basics
 # Webinars
 The Basic of GIT and Github
 IFS&WHILES Sp. z o. o. 
+
 Sql Basics
 IFS&WHILES Sp. z o. o.
 # Groups on Facebook
