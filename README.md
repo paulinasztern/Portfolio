@@ -26,6 +26,7 @@ learning and development. I'm gaining experience on uTest.
 Font, GoFullPage
 
 -SQL - basic knowledge
+- CREATE, SELECT, INSERT, UPDATE, DROP, DELETE, ALTER, JOIN
 
 -Python - basic knowledge
 - simple functions and algorithms
