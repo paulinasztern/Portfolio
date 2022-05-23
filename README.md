@@ -62,14 +62,14 @@ https://www.postman.com/collections/8ae1e9a96321d2111932
 Python for beginners udemy.com 
 - lists/tuples/dictionaries, conditional statements if/else/elif, for and while loops 
 
-Postman from scratch - REST API testing udemy.com 
+Postman from scratch - REST API testing - udemy.com 
 - API testing automation, Newman & Jenkins, GET/POST/PUT/DELETE request
 
-Jira From Scratch - Project Management udemy.com
+Jira From Scratch - Project Management - udemy.com
 - Agile concept (Scrum, Kanban, Sprint, Backlog), workflow automation, creating new
 ticket type, creating reports
 
-Practical software testing course udemy.com 
+Practical software testing course - udemy.com 
 - writing test plans and test cases, using TestLink and GIT, using browser plugins,
 creating bug reports, SQL basics
 # Webinars
