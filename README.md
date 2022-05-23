@@ -5,9 +5,8 @@ manual tester. I'm a hardworking and conscientious person, focused on continuous
 learning and development. I'm gaining experience on uTest.
 # Tools
 - Jira
-
-know how to create bug reports
-able to create projects and track their progress
+*know how to create bug reports
+*able to create projects and track their progress
 - TestLink
 - Postman
 
