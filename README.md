@@ -5,14 +5,24 @@ manual tester. I'm a hardworking and conscientious person, focused on continuous
 learning and development. I'm gaining experience on uTest.
 # Tools
 - Jira
+know how to create bug reports
+able to create projects and track their progress
 - TestLink
 - Postman
+GET, POST, PUT, DELETE
+global/ environment/ collectioon variables
+simple tests
+Runner, Monitors
+Newman
+Jenkins
 - GIT and Visual Studio Code
 - PickPick and ShareX
 - Perfect Pixel, ColorZilla, What
 Font, GoFullPage
 - SQL - basic knowledge
 - Python - basic knowledge
+simple functions and algorithms
+know when to use for, if, while, break
 - OWASP ZAP
 # Experience
 Manual Tester
