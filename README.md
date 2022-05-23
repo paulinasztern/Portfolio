@@ -8,28 +8,28 @@ learning and development. I'm gaining experience on uTest.
 - know how to create bug reports
 - able to create projects and track their progress
 
-TestLink
+-TestLink
 
-Postman with Newman/Jenkins
+-Postman with Newman/Jenkins
 - GET, POST, PUT, DELETE
 - global/ environment/ collectioon variables
 - simple tests
 - Runner, Monitors
 
-GIT and Visual Studio Code
+-GIT and Visual Studio Code
 
-PickPick and ShareX
+-PickPick and ShareX
 
-Perfect Pixel, ColorZilla, What
+-Perfect Pixel, ColorZilla, What
 Font, GoFullPage
 
-SQL - basic knowledge
+-SQL - basic knowledge
 
-Python - basic knowledge
+-Python - basic knowledge
 - simple functions and algorithms
 - know when to use for, if, while, break
 
-OWASP ZAP
+-OWASP ZAP
 # Experience
 Manual Tester
 uTest - crowdtesting - Since April 2022
