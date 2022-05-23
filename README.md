@@ -59,7 +59,7 @@ https://drive.google.com/file/d/1wtYow3HhwHgFY5Cqp9i6eugwQsjQQz0b/view?usp=shari
 # Postman - Tests
 https://www.postman.com/collections/8ae1e9a96321d2111932
 # Courses
-Python for beginners udemy.com 
+Python for beginners - udemy.com 
 - lists/tuples/dictionaries, conditional statements if/else/elif, for and while loops 
 
 Postman from scratch - REST API testing - udemy.com 
