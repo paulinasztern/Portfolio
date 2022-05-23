@@ -26,7 +26,8 @@ controle log, charles proxy) and test cases
 * [Bug report - Selfridges mobile app (pdf)](https://drive.google.com/file/d/1HDKOhw99Egfat3EcSjbpoYZ3rVxLp3kh/view?usp=sharing)
 * [Bug report - Swarovski website (pdf)](https://drive.google.com/file/d/1QYLBQhhMLtLOZfO0nwTGr3tFQT1GzmMd/view?usp=sharing)
 * [Bug report with Charles Proxy - Oldnavy.gap website (pdf)](https://drive.google.com/file/d/1zV2f7MLYpiRVQUM_Vs3qeUabOek8p2LC/view?usp=sharing)
-* [Bug report - Messages mobile app (Jira screenschot)](https://drive.google.com/file/d/1VssJok2_bIwztC4vdKVZc5a6hQSbxTZk/view?usp=sharing)
+* [Bug report - Messages mobile app (Jira screenschot)](https://drive.google.com/file/d/1VssJok2_bIwztC4vdKVZc5a6hQSbxTZk/view?usp=sharing, https://drive.google.com/file/d/1Qn7jmUJ-ADWdDkk14MnVQFJSoocc24P7/view?usp=sharing)
+
 # SQL
 https://drive.google.com/file/d/1wtYow3HhwHgFY5Cqp9i6eugwQsjQQz0b/view?usp=sharing
 # Postman - Tests
