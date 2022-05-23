@@ -4,7 +4,7 @@ I'm currently aspiring to work as a beginner but highly motivated
 manual tester. I'm a hardworking and conscientious person, focused on continuous
 learning and development. I'm gaining experience on uTest.
 # Tools
-/*Jira
+-Jira
 - know how to create bug reports
 - able to create projects and track their progress
 
