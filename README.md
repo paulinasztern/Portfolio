@@ -6,7 +6,8 @@ learning and development. I'm gaining experience on uTest.
 # Tools
 -Jira
 - know how to create bug reports
-- able to create projects and track their progress
+- able to create and configuration projects and track their progress
+- SCRUM, KANBAN
 
 -TestLink
 
@@ -19,6 +20,7 @@ learning and development. I'm gaining experience on uTest.
 -GIT and Visual Studio Code
 
 -PickPick and ShareX
+- making scrennshots and screenrecording
 
 -Perfect Pixel, ColorZilla, What
 Font, GoFullPage
