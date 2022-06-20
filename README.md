@@ -22,6 +22,10 @@ learning and development. I'm gaining experience on uTest.
 -PickPick and ShareX
 - making scrennshots and screenrecording
 
+-Android Studio
+
+-Charles Proxy
+
 -Perfect Pixel, ColorZilla, What
 Font, GoFullPage
 
