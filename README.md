@@ -30,7 +30,10 @@ learning and development. I'm gaining experience on uTest.
 Font, GoFullPage
 
 -SQL - basic knowledge
-- CREATE, SELECT, INSERT, UPDATE, DROP, DELETE, ALTER, JOIN
+-creating tables
+-joining tables
+-updating records in a database
+-retrieving data from a database
 
 -Python - basic knowledge
 - simple functions and algorithms
