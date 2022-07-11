@@ -63,7 +63,7 @@ controle log, charles proxy) and test cases
 [bug2](https://drive.google.com/file/d/1Qn7jmUJ-ADWdDkk14MnVQFJSoocc24P7/view?usp=sharing)
 
 # SQL
-https://drive.google.com/file/d/1wtYow3HhwHgFY5Cqp9i6eugwQsjQQz0b/view?usp=sharing
+https://drive.google.com/file/d/1i8ht6nqknR6--IY8GbW0WGnkyvWEF_EN/view?usp=sharing
 # Postman - Tests
 https://www.postman.com/collections/8ae1e9a96321d2111932
 # Courses
