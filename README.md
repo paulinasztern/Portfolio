@@ -5,7 +5,7 @@ manual tester. I'm a hardworking and conscientious person, focused on continuous
 learning and development. 
 
 I'm gaining experience on uTest:
- functional and usability desktop/mobile website/app testing
+- functional and usability desktop/mobile website/app testing
 - mobile game testing
 - writing bug reports and test cases 
 - working with DevTools console
