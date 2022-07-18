@@ -12,6 +12,7 @@ I'm gaining experience on uTest:
 - using Android Studio and Charles Proxy
 - reviewing business and test requirements
 - meeting deadlines
+
 I am in the group of the best 15% of all testers. I took an active part in over 40 test cycles.
 
 # Tools
