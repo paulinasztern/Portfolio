@@ -2,7 +2,18 @@
 # About me
 I'm currently aspiring to work as a beginner but highly motivated
 manual tester. I'm a hardworking and conscientious person, focused on continuous
-learning and development. I'm gaining experience on uTest.
+learning and development. 
+
+I'm gaining experience on uTest:
+ functional and usability desktop/mobile website/app testing
+- mobile game testing
+- writing bug reports and test cases 
+- working with DevTools console
+- using Android Studio and Charles Proxy
+- reviewing business and test requirements
+- meeting deadlines
+I am in the group of the best 15% of all testers. I took an active part in over 40 test cycles.
+
 # Tools
 -Jira
 - know how to create bug reports
