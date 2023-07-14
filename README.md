@@ -18,10 +18,10 @@ I'm gaining experience as a freelancer tester:
 -TestLink
 
 -Postman with Newman/Jenkins
--GET, POST, PUT, DELETE
--global/ environment/ collectioon variables
--simple tests
--Runner, Monitors
+- GET, POST, PUT, DELETE
+- global/ environment/ collectioon variables
+- simple tests
+- Runner, Monitors
 
 -GIT 
 -Visual Studio Code
@@ -29,13 +29,13 @@ I'm gaining experience as a freelancer tester:
 -Charles Proxy
 
 -SQL - basic knowledge
--creating tables
--joining tables
--updating records in a database
--retrieving data from a database
+- creating tables
+- joining tables
+- updating records in a database
+- retrieving data from a database
 
 -Python - basic knowledge
--simple functions and algorithms
+- simple functions and algorithms
 
 -HTML + CSS
 
