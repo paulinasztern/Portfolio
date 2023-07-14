@@ -15,6 +15,7 @@ I'm gaining experience as a freelancer tester:
 
 # Tools
 -Jira
+
 -TestLink
 
 -Postman with Newman/Jenkins
