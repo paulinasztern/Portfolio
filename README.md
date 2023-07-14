@@ -4,42 +4,29 @@ I'm currently aspiring to work as a beginner but highly motivated
 manual tester. I'm a hardworking and conscientious person, focused on continuous
 learning and development. 
 
-I'm gaining experience on uTest:
+I'm gaining experience as a freelancer tester:
 - functional and usability desktop/mobile website/app testing
-- mobile game testing
-- writing bug reports and test cases 
+- writing bug reports
+- working with test cases
 - working with DevTools console
 - using Android Studio and Charles Proxy
 - reviewing business and test requirements
 - meeting deadlines
 
-I am in the group of the best 15% of all testers. I took an active part in over 40 test cycles.
-
 # Tools
 -Jira
-- know how to create bug reports
-- able to create and configuration projects and track their progress
-- SCRUM, KANBAN
-
 -TestLink
 
 -Postman with Newman/Jenkins
-- GET, POST, PUT, DELETE
-- global/ environment/ collectioon variables
-- simple tests
-- Runner, Monitors
+-GET, POST, PUT, DELETE
+-global/ environment/ collectioon variables
+-simple tests
+-Runner, Monitors
 
--GIT and Visual Studio Code
-
--PickPick and ShareX
-- making scrennshots and screenrecording
-
+-GIT 
+-Visual Studio Code
 -Android Studio
-
 -Charles Proxy
-
--Perfect Pixel, ColorZilla, What
-Font, GoFullPage
 
 -SQL - basic knowledge
 -creating tables
@@ -48,32 +35,22 @@ Font, GoFullPage
 -retrieving data from a database
 
 -Python - basic knowledge
-- simple functions and algorithms
-- know when to use for, if, while, break
+-simple functions and algorithms
 
--OWASP ZAP
+-HTML + CSS
+
 # Experience
 Manual Tester
 uTest - crowdtesting - Since April 2022
 - Functional website and mobile app testing
 - Usability website testing
-- Writing bug reports (with screenshots, screen recording, browser and mobile devices
-controle log, charles proxy) and test cases
+- Writing bug reports
+- Using Android Studio and Charles Proxy
+- Working with DevTools
+  
 # My bug reports
-* Bug report - Kayak website 
-[pdf](https://drive.google.com/file/d/1R2WAEwnIrOySw3fqBXnmdPhR79WZpV-c/view?usp=sharing)
-* Bug report - Lacoste website
-[pdf](https://drive.google.com/file/d/1jfrs7YND2V5eNrS_-rnepCadKoPgkHdK/view?usp=sharing)
-* Bug report - Selfridges mobile app
-[pdf](https://drive.google.com/file/d/1HDKOhw99Egfat3EcSjbpoYZ3rVxLp3kh/view?usp=sharing)
-* Bug report - Swarovski website
-[pdf](https://drive.google.com/file/d/1QYLBQhhMLtLOZfO0nwTGr3tFQT1GzmMd/view?usp=sharing)
-* Bug report with Charles Proxy - Oldnavy.gap website
-[pdf](https://drive.google.com/file/d/1zV2f7MLYpiRVQUM_Vs3qeUabOek8p2LC/view?usp=sharing)
-* Bug report - Messages mobile app (Jira screenschot)
-[bug1](https://drive.google.com/file/d/1VssJok2_bIwztC4vdKVZc5a6hQSbxTZk/view?usp=sharing),
-[bug2](https://drive.google.com/file/d/1Qn7jmUJ-ADWdDkk14MnVQFJSoocc24P7/view?usp=sharing)
-
+* Bug report - an application that allows the user to read sports and show business news
+https://drive.google.com/file/d/1MLS6JcPzVxrDRRYq_1pLZB2mgIJE-yfq/view?usp=drive_link
 # SQL
 https://drive.google.com/file/d/1i8ht6nqknR6--IY8GbW0WGnkyvWEF_EN/view?usp=sharing
 # Postman - Tests
