@@ -25,8 +25,11 @@ I'm gaining experience as a freelancer tester:
 - Runner, Monitors
 
 -GIT 
+
 -Visual Studio Code
+
 -Android Studio
+
 -Charles Proxy
 
 -SQL - basic knowledge
