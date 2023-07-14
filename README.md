@@ -38,7 +38,7 @@ I'm gaining experience as a freelancer tester:
 - updating records in a database
 - retrieving data from a database
 
--Python - basic knowledge
+-Java - basic knowledge
 - simple functions and algorithms
 
 -HTML + CSS
