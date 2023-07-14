@@ -54,7 +54,7 @@ uTest - crowdtesting - Since April 2022
   
 # My bug reports
 * Bug report - an application that allows the user to read sports and show business news
-https://drive.google.com/file/d/1MLS6JcPzVxrDRRYq_1pLZB2mgIJE-yfq/view?usp=drive_link
+https://drive.google.com/file/d/1dll64gpQhoVP7sx2s2IfYjR1yqQ64ccY/view?usp=sharing
 # SQL
 https://drive.google.com/file/d/1i8ht6nqknR6--IY8GbW0WGnkyvWEF_EN/view?usp=sharing
 # Postman - Tests
