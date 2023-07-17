@@ -86,8 +86,6 @@ SQL Basics
 IFS&WHILES Sp. z o. o.
 # Groups on Facebook
 - Tester Oprogramowania - wsparcie na start (Software Tester - support to start)
-- Czy IT jest dla mnie (Is IT for me)
 - Testowanie Oprogramowania - PRACA, Ogłoszenia (Software Testing - WORK, Announcements)
 - Testowanie Oprogramowania (Software Testing)
 - QA Testers - job offers, oferty pracy, jobangebote, вакансії
-- Akademia Testera - Grupa wsparcia w IT (Tester Academy - IT support group)
