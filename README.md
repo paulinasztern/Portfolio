@@ -53,8 +53,13 @@ uTest - crowdtesting - Since April 2022
 - Working with DevTools
   
 # My bug reports
-* Bug report - an application that allows the user to read sports and show business news
+* A mobile application that allows the user to read sports and show business news
 https://drive.google.com/file/d/1dll64gpQhoVP7sx2s2IfYjR1yqQ64ccY/view?usp=sharing
+* Clothing store website
+https://drive.google.com/file/d/1szlKxUzMwNCS25wO9xW4CGGlPxfkVLWZ/view?usp=sharing
+https://drive.google.com/file/d/1q_EG5u7-uwwpUfaapxT-Wxhjc8kHTaVK/view?usp=sharing
+* A mobile restuarant application that allows the user to order food delivery
+https://drive.google.com/file/d/1psL9XbXX__xl01WUgz4zKYEXxTNJl4bz/view?usp=sharing
 # SQL
 https://drive.google.com/file/d/1i8ht6nqknR6--IY8GbW0WGnkyvWEF_EN/view?usp=sharing
 # Postman - Tests
