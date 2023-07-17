@@ -39,7 +39,7 @@ I'm gaining experience as a freelancer tester:
 - simple functions and algorithms
 
 -Html + CSS - basic knowledge
--the ability to create an uncomplicated website
+- the ability to create an uncomplicated website
 
 
 
