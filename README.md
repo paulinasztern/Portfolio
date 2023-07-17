@@ -64,7 +64,14 @@ https://drive.google.com/file/d/1psL9XbXX__xl01WUgz4zKYEXxTNJl4bz/view?usp=shari
 https://drive.google.com/file/d/1i8ht6nqknR6--IY8GbW0WGnkyvWEF_EN/view?usp=sharing
 # Postman - Tests
 https://www.postman.com/collections/8ae1e9a96321d2111932
+# HTML + CSS
+*Simple website
+https://test-website-57a7b4.netlify.app/
+
 # Courses
+HTML + CSS Maraton - GoIT
+- creating a website
+
 Python for beginners - udemy.com 
 - lists/tuples/dictionaries, conditional statements if/else/elif, for and while loops 
 
@@ -78,6 +85,7 @@ ticket type, creating reports
 Practical software testing course - udemy.com 
 - writing test plans and test cases, using TestLink and GIT, using browser plugins,
 creating bug reports, SQL basics
+
 # Webinars
 The Basic of GIT and Github
 IFS&WHILES Sp. z o. o. 
