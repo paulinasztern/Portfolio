@@ -19,10 +19,7 @@ I'm gaining experience as a freelancer tester:
 -TestLink
 
 -Postman with Newman/Jenkins
-- GET, POST, PUT, DELETE
-- global/ environment/ collectioon variables
 - simple tests
-- Runner, Monitors
 
 -GIT 
 
@@ -41,7 +38,10 @@ I'm gaining experience as a freelancer tester:
 -Java - basic knowledge
 - simple functions and algorithms
 
--HTML + CSS
+-Html + CSS - basic knowledge
+-the ability to create an uncomplicated website
+
+
 
 # Experience
 Manual Tester
