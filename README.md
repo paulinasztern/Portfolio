@@ -38,6 +38,7 @@ learning and development.
 # Experience
 Manual Tester
 uTest - crowdtesting - Since April 2022
+
 I'm gaining experience as a freelancer tester:
 - exploratory testing
 - usability evaluation
