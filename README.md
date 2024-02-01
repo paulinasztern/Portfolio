@@ -1,22 +1,14 @@
 # Portfolio
 # About me
-I'm currently aspiring to work as a beginner but highly motivated
-manual tester. I'm a hardworking and conscientious person, focused on continuous
+I'm currently aspiring to work as a highly motivated manual tester. 
+I'm a hardworking and conscientious person, focused on continuous
 learning and development. 
 
-I'm gaining experience as a freelancer tester:
-- functional and usability desktop/mobile website/app testing
-- writing bug reports
-- working with test cases
-- working with DevTools console
-- using Android Studio and Charles Proxy
-- reviewing business and test requirements
-- meeting deadlines
 
 # Tools
 -Jira
 
--TestLink
+-TestRail
 
 -Postman with Newman/Jenkins
 - simple tests
@@ -46,11 +38,18 @@ I'm gaining experience as a freelancer tester:
 # Experience
 Manual Tester
 uTest - crowdtesting - Since April 2022
-- Functional website and mobile app testing
-- Usability website testing
-- Writing bug reports
-- Using Android Studio and Charles Proxy
-- Working with DevTools
+I'm gaining experience as a freelancer tester:
+- exploratory testing
+- usability evaluation
+- regression testing and issue validation
+- identifying performance-related issues
+- executing test cases, following specified requirements
+- providing bug reports on TestRail or testing platform, fostering efficient issue resolution
+- utilizing Charles Proxy to track requests and responses, identifying potential issues
+- using Browser Developer Tools to perform inspections of page elements and logs
+- close collaboration with team leaders and other testers different countries
+- reviewing business and test requirements
+- meeting deadlines
   
 # My bug reports
 * A mobile application that allows the user to read sports and show business news
@@ -83,8 +82,7 @@ Jira From Scratch - Project Management - udemy.com
 ticket type, creating reports
 
 Practical software testing course - udemy.com 
-- writing test plans and test cases, using TestLink and GIT, using browser plugins,
-creating bug reports, SQL basics
+- writing test plans and test cases, using GIT, creating bug reports, SQL basics
 
 # Webinars
 The Basic of GIT and Github
