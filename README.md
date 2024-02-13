@@ -49,7 +49,7 @@ I'm gaining experience as a freelancer tester:
 - reviewing business and test requirements
 - meeting deadlines
   
-# My bug reports
+# Bug reports in Jira
 * A mobile application that allows the user to read sports and show business news
 https://drive.google.com/file/d/1dll64gpQhoVP7sx2s2IfYjR1yqQ64ccY/view?usp=sharing
 * Clothing store website
