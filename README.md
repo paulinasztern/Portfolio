@@ -85,6 +85,4 @@ IFS&WHILES Sp. z o. o.
 
 SQL Basics
 IFS&WHILES Sp. z o. o.
-# Groups on Facebook
-- Tester Oprogramowania - wsparcie na start (Software Tester - support to start)
-- Testowanie Oprogramowania (Software Testing)
+
