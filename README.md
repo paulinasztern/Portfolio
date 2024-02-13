@@ -6,8 +6,10 @@ Additionally I'm advancing my skills in the Java programming language, applying 
 
 # Tools
 -Jira
+- Agile methodology, creating reports and tickets, flow configuration and automation
 
 -TestRail
+- creating bur reports
 
 -Postman with Newman/Jenkins
 - simple tests
@@ -15,8 +17,10 @@ Additionally I'm advancing my skills in the Java programming language, applying 
 - Selenium
 
 -GIT 
+-  creating a repository, creating a branch, adding files, merge
 
 -Charles Proxy
+- tracking requests and responses
 
 -SQL - basic knowledge
 - creating tables
