@@ -12,11 +12,9 @@ Additionally I'm advancing my skills in the Java programming language, applying 
 -Postman with Newman/Jenkins
 - simple tests
 
+- Selenium
+
 -GIT 
-
--Visual Studio Code
-
--Android Studio
 
 -Charles Proxy
 
@@ -26,7 +24,7 @@ Additionally I'm advancing my skills in the Java programming language, applying 
 - updating records in a database
 - retrieving data from a database
 
--Java - basic knowledge
+-Java + Visual Studio Code
 - simple functions and algorithms
 
 -Html + CSS - basic knowledge
@@ -70,9 +68,6 @@ https://test-website-57a7b4.netlify.app/
 # Courses
 HTML + CSS Maraton - GoIT
 - creating a website
-
-Python for beginners - udemy.com 
-- lists/tuples/dictionaries, conditional statements if/else/elif, for and while loops 
 
 Postman from scratch - REST API testing - udemy.com 
 - API testing automation, Newman & Jenkins, GET/POST/PUT/DELETE request
