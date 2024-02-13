@@ -1,8 +1,7 @@
 # Portfolio
 # About me
-I'm currently aspiring to work as a highly motivated manual tester. 
-I'm a hardworking and conscientious person, focused on continuous
-learning and development. 
+I'm a hardworking and conscientious person, focused on continuous learning and development. Currently I'm working on crowdtesting platform, actively engaging in a variety of testing projects for different clients across diverse industries, including e-commerce and media. 
+Additionally I'm advancing my skills in the Java programming language, applying it to automation testing in Selenium. 
 
 
 # Tools
